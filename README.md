@@ -1,3 +1,6 @@
 # StylePackage
 
-A description of this package.
+Swift Package Manager for Style.
+
+- UIFont.swift
+- UIColor.swift
