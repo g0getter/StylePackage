@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Lottie
+//  XIBPractices
 //
-//  Created by 여나경 on 2021/11/02.
+//  Created by 여나경 on 2021/11/16.
 //
 
 import UIKit
